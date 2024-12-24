@@ -34,7 +34,7 @@ To install the required dependencies, use the `requirements.txt` file provided i
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Vidish-Bijalwan/house-price-prediction.git
 cd house-price-prediction
 
 ### 2. Create a virtual environment (optional but recommended):
